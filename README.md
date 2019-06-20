@@ -1,2 +1,3 @@
-# hw2_JLH
-Homework assignment Unit 2
+# Project Title
+
+Unit 2 Homework: The VBA of Wall Street
